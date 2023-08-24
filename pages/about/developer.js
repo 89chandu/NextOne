@@ -29,4 +29,4 @@ function Developer() {
   );
 }
 
-export { details, Developer };
+export default Developer;
